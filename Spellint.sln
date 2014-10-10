@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spellint", "Spellint\Spellint.csproj", "{A0117113-CAFE-4CE4-A156-69D59D7F0496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{7E29419F-1BC2-4423-993D-5EE6BE831B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0117113-CAFE-4CE4-A156-69D59D7F0496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0117113-CAFE-4CE4-A156-69D59D7F0496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0117113-CAFE-4CE4-A156-69D59D7F0496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0117113-CAFE-4CE4-A156-69D59D7F0496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E29419F-1BC2-4423-993D-5EE6BE831B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E29419F-1BC2-4423-993D-5EE6BE831B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E29419F-1BC2-4423-993D-5EE6BE831B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E29419F-1BC2-4423-993D-5EE6BE831B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

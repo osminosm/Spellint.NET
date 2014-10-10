@@ -1,0 +1,5 @@
+c:\users\osman\documents\visual studio 2012\Projects\Spelly\Spelly\obj\Debug\Spelly.csprojResolveAssemblyReference.cache
+C:\Users\osman\documents\visual studio 2012\Projects\Spelly\Spelly\bin\Debug\Spellint.dll
+C:\Users\osman\documents\visual studio 2012\Projects\Spelly\Spelly\bin\Debug\Spellint.pdb
+C:\Users\osman\documents\visual studio 2012\Projects\Spelly\Spelly\obj\Debug\Spellint.dll
+C:\Users\osman\documents\visual studio 2012\Projects\Spelly\Spelly\obj\Debug\Spellint.pdb
