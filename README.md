@@ -26,3 +26,12 @@ string str = Spellint.Arabic.Spell(233434);
 string str = Spellint.French.Spell(233434);
 
 // str == deux cent trente trois mille quatre cent trente quatre
+
+
+Current Goals
+=============
+
+* Figuring out more spelling algorithms for other languages.
+* Expanding the Spell method overloads for as many numeric types as possible.
+* Fix Existing bugs :P
+* Make this humble library for other frameworks/programing languages.
